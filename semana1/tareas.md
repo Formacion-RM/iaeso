@@ -1,6 +1,6 @@
 # Semana 1 · Tareas · AI Fluency
 
-Las tareas obligatorias se completan en unas 2 h 45 min, contando la lectura de los apuntes y los dos vídeos. Las opcionales son para quien quiera practicar más y no se entregan de forma obligatoria: aparecen plegadas; pulsa sobre ellas para ver todos los pasos.
+Las tareas obligatorias se completan en unas 2 h 45 min, contando la lectura de los apuntes y los dos vídeos. Las opcionales son para quien quiera practicar más y no se entregan de forma obligatoria: aparecen plegadas: pulsa sobre ellas para ver todos los pasos.
 
 ## Ruta de la semana
 
@@ -37,18 +37,30 @@ Hazla **antes** de leer los apuntes. En la pizarra colaborativa de Aules, respon
 
 Volverás a responderlas en la semana 5 para comparar.
 
-??? note "➕ O1 · Comprueba las fuentes (opcional · 45 min): ¿dicen los enlaces lo que afirma la IA?"
-    Después de leer el apartado 1 de los apuntes.
+<details>
+<summary>➕ O1 · Comprueba las fuentes (opcional · 45 min): ¿dicen los enlaces lo que afirma la IA?</summary>
 
-    1. Pide a tu asistente: *«Dame 5 datos con cifras sobre el uso del móvil por el alumnado de ESO en España, cada uno con el enlace a su fuente»*.
-    2. Abre cada enlace y busca la cifra (Ctrl+F).
-    3. Anota cuántos datos aparecen tal cual, cuántos son de otro año o lugar y cuántos no aparecen.
+Después de leer el apartado 1 de los apuntes.
 
-??? note "➕ O2 · Alucinación visual (opcional · 20 min): busca los errores de un mapa generado"
-    Pide a tu asistente una imagen: *«Un mapa de la Comunitat Valenciana con sus comarcas y sus nombres rotulados»*. Busca los errores: nombres inventados, comarcas mal situadas o faltas de ortografía.
+1. Pide a tu asistente: *«Dame 5 datos con cifras sobre el uso del móvil por el alumnado de ESO en España, cada uno con el enlace a su fuente»*.
+2. Abre cada enlace y busca la cifra (Ctrl+F).
+3. Anota cuántos datos aparecen tal cual, cuántos son de otro año o lugar y cuántos no aparecen.
 
-??? note "➕ O3 · Mi semáforo (opcional · 30 min): clasifica diez tareas de tu semana"
-    Después de leer el apartado 3 de los apuntes. Escribe diez tareas reales de tu semana como docente y clasifícalas en verde, ámbar o rojo, con una línea que justifique cada una. Si quieres, compártelo en el foro.
+</details>
+
+<details>
+<summary>➕ O2 · Alucinación visual (opcional · 20 min): busca los errores de un mapa generado</summary>
+
+Pide a tu asistente una imagen: *«Un mapa de la Comunitat Valenciana con sus comarcas y sus nombres rotulados»*. Busca los errores: nombres inventados, comarcas mal situadas o faltas de ortografía.
+
+</details>
+
+<details>
+<summary>➕ O3 · Mi semáforo (opcional · 30 min): clasifica diez tareas de tu semana</summary>
+
+Después de leer el apartado 3 de los apuntes. Escribe diez tareas reales de tu semana como docente y clasifícalas en verde, ámbar o rojo, con una línea que justifique cada una. Si quieres, compártelo en el foro.
+
+</details>
 
 ## T1.2 · Crea tu proyecto «IA para docentes» (obligatoria · 40 min)
 
@@ -94,13 +106,21 @@ Después de ver el vídeo 2. Vas a comprobar con tus propios ojos que el context
     - ¿Cuál usarías en clase? ¿Con qué cambios?
 4. Haz una **captura** de las dos respuestas.
 
-??? note "➕ O4 · ¿Qué recuerda? (opcional · 30 min): la memoria dentro, fuera y en incógnito"
-    1. Pregunta *«¿Qué sabes de mí y de mi alumnado?»* en tres sitios: dentro del proyecto, en un chat normal y en un chat temporal o incógnito.
-    2. Compara las tres respuestas.
-    3. Abre la sección de memoria en la configuración de tu asistente: lee lo que ha guardado, corrige lo que esté mal y borra lo que no quieras que recuerde.
+<details>
+<summary>➕ O4 · ¿Qué recuerda? (opcional · 30 min): la memoria dentro, fuera y en incógnito</summary>
 
-??? note "➕ O5 · Otro asistente (opcional · 30 min): repite T1.3 en Gemini o Copilot"
-    Repite T1.3 en Gemini (con un Gem) o en Copilot (con un Notebook). ¿Se nota la misma diferencia entre dentro y fuera? ¿Qué asistente te ha respondido mejor?
+1. Pregunta *«¿Qué sabes de mí y de mi alumnado?»* en tres sitios: dentro del proyecto, en un chat normal y en un chat temporal o incógnito.
+2. Compara las tres respuestas.
+3. Abre la sección de memoria en la configuración de tu asistente: lee lo que ha guardado, corrige lo que esté mal y borra lo que no quieras que recuerde.
+
+</details>
+
+<details>
+<summary>➕ O5 · Otro asistente (opcional · 30 min): repite T1.3 en Gemini o Copilot</summary>
+
+Repite T1.3 en Gemini (con un Gem) o en Copilot (con un Notebook). ¿Se nota la misma diferencia entre dentro y fuera? ¿Qué asistente te ha respondido mejor?
+
+</details>
 
 ## Entrega, Ficha 4D y foro (obligatoria · 20 min)
 
