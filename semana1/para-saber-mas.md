@@ -61,7 +61,6 @@ En Claude y ChatGPT, cada proyecto puede tener su propia memoria, separada de la
 
 ## Recursos para seguir aprendiendo
 
-- [Herramientas de IA generativa para docentes](https://mcorpusb.github.io/curso-ia-cefire-alumnado/) (CEFIRE, 2026): Bloque 0, laboratorio de Secundaria y baúl de *prompts*.
 - Curso de Anthropic sobre fluidez en IA, origen del marco de las 4D.
 - Marco de competencias en IA para docentes de la UNESCO (2024).
 - Guías de la AEPD sobre protección de datos en centros educativos.
