@@ -23,6 +23,8 @@ De aquí salen dos problemas que conviene distinguir:
 
 Las 4D son las cuatro competencias que necesitas para trabajar bien con IA. Son el hilo conductor del curso: cada semana nos centramos en una.
 
+![Las 4D de AI Fluency: Delegación, Descripción, Discernimiento y Diligencia](4d.png)
+
 | D | Pregunta clave | Semana |
 | --- | --- | --- |
 | Delegación | ¿Me conviene hacer esta tarea con IA o debo hacerla yo? Y si uso la IA, ¿cómo nos repartimos el trabajo? | 1 |
