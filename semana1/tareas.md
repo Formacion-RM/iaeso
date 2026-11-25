@@ -1,89 +1,97 @@
 # Semana 1 · Tareas · AI Fluency
 
-Las tareas obligatorias se completan en unas 2 h 45 min, contando la lectura de los apuntes y los dos vídeos. Las opcionales son para quien quiera practicar más y no se entregan de forma obligatoria: aparecen plegadas: pulsa sobre ellas para ver todos los pasos.
+Las tareas obligatorias son las que tienes que entregar. Las opcionales son para quien quiera practicar un poco más y no hace falta entregarlas.
 
 ## Ruta de la semana
 
-Sigue los pasos en orden. Las tareas opcionales están colocadas junto al contenido con el que se relacionan.
+Ve siguiendo los pasos en orden. Las tareas opcionales están justo al lado del contenido con el que tienen que ver.
 
-| Paso | Qué haces | Tipo | Tiempo |
-| --- | --- | --- | --- |
-| 1 | T1.1 · Pizarra 4D inicial | Obligatoria | 10 min |
-| 2 | Apuntes 1 · Qué es un modelo de lenguaje | Lectura | 10 min |
-| | O1 · Comprueba las fuentes | Opcional | 45 min |
-| | O2 · Alucinación visual | Opcional | 20 min |
-| 3 | Apuntes 2 y 3 · Las 4D y Delegación | Lectura | 15 min |
-| | O3 · Mi semáforo | Opcional | 30 min |
-| 4 | Apuntes 4 y 5 · Contexto, fuentes, memoria y diligencia | Lectura | 15 min |
-| 5 | Vídeo 1 · Preséntate una vez y deja de repetirte | Vídeo | 5 min |
-| 6 | T1.2 · Crea tu proyecto «IA para docentes» | Obligatoria | 40 min |
-| 7 | Vídeo 2 · Pídele que te pregunte antes de responder | Vídeo | 5 min |
-| 8 | T1.3 · Dentro y fuera del proyecto | Obligatoria | 30 min |
-| | O4 · ¿Qué recuerda? | Opcional | 30 min |
-| | O5 · Otro asistente | Opcional | 30 min |
-| 9 | Entrega, Ficha 4D y foro | Obligatoria | 20 min |
-| 10 | Para saber más | Opcional | 1–2 h |
+| Paso | Qué haces | Tipo |
+| --- | --- | --- |
+| 1 | T1.1 · Pizarra 4D inicial | Obligatoria |
+| 2 | Apuntes 1 · Qué es un modelo de lenguaje | Lectura |
+|  | O1 · Comprueba las fuentes | Opcional |
+|  | O2 · Alucinación visual | Opcional |
+| 3 | Apuntes 2 y 3 · Las 4D y Delegación | Lectura |
+|  | O3 · Mi semáforo | Opcional |
+| 4 | Apuntes 4 y 5 · Contexto, fuentes, memoria y precauciones | Lectura |
+| 5 | Vídeo 1 · Preséntate una vez y deja de repetirte | Vídeo |
+| 6 | T1.2 · Crea tu proyecto «IA para docentes» | Obligatoria |
+| 7 | Vídeo 2 · Pídele que te pregunte antes de responder | Vídeo |
+| 8 | T1.3 · Dentro y fuera del proyecto | Obligatoria |
+|  | O4 · ¿Qué recuerda? | Opcional |
+|  | O5 · Otro asistente | Opcional |
+| 9 | Entrega, Ficha 4D y foro | Obligatoria |
+| 10 | Para saber más | Opcional |
 
-**Total obligatorio:** unas 2 h 45 min. **Con todas las opcionales:** unas 6–7 h.
+## T1.1 · Pizarra 4D inicial (obligatoria)
 
-## T1.1 · Pizarra 4D inicial (obligatoria · 10 min)
+Hazla **antes** de leer los apuntes. En la pizarra colaborativa de Aules, contesta con lo que piensas hoy, en dos o tres líneas por pregunta:
 
-Hazla **antes** de leer los apuntes. En la pizarra colaborativa de Aules, responde con lo que piensas hoy, en 2 o 3 líneas por pregunta:
-
-1. ¿Qué tareas de tu trabajo **delegarías** en una IA? ¿Cuáles nunca?
-2. ¿**Cómo se lo pedirías**? Escribe un ejemplo.
+1. ¿Qué tareas de tu trabajo **le pasarías** a una IA? ¿Cuáles nunca?
+2. ¿**Cómo se lo pedirías**? Pon un ejemplo.
 3. ¿Qué **comprobarías** antes de usar lo que te dé?
 4. ¿Qué **precauciones** tomarías?
 
-Volverás a responderlas en la semana 5 para comparar.
+No hay respuestas buenas ni malas. En la semana 5 volverás a contestarlas y verás cuánto has cambiado.
 
 <details>
-<summary>➕ O1 · Comprueba las fuentes (opcional · 45 min): ¿dicen los enlaces lo que afirma la IA?</summary>
+<summary>➕ O1 · Comprueba las fuentes (opcional)</summary>
 
-Después de leer el apartado 1 de los apuntes.
+Hazla después de leer el apartado 1 de los apuntes.
 
 1. Pide a tu asistente: *«Dame 5 datos con cifras sobre el uso del móvil por el alumnado de ESO en España, cada uno con el enlace a su fuente»*.
 2. Abre cada enlace y busca la cifra (Ctrl+F).
-3. Anota cuántos datos aparecen tal cual, cuántos son de otro año o lugar y cuántos no aparecen.
+3. Apunta cuántos datos aparecen tal cual, cuántos son de otro año o de otro sitio y cuántos no aparecen.
 
 </details>
 
 <details>
-<summary>➕ O2 · Alucinación visual (opcional · 20 min): busca los errores de un mapa generado</summary>
+<summary>➕ O2 · Alucinación visual (opcional)</summary>
 
-Pide a tu asistente una imagen: *«Un mapa de la Comunitat Valenciana con sus comarcas y sus nombres rotulados»*. Busca los errores: nombres inventados, comarcas mal situadas o faltas de ortografía.
+Pide a tu asistente esta imagen: *«Un mapa de la Comunitat Valenciana con sus comarcas y sus nombres rotulados»*. Busca los fallos: nombres inventados, comarcas fuera de sitio o faltas de ortografía.
 
 </details>
 
 <details>
-<summary>➕ O3 · Mi semáforo (opcional · 30 min): clasifica diez tareas de tu semana</summary>
+<summary>➕ O3 · Mi semáforo (opcional)</summary>
 
-Después de leer el apartado 3 de los apuntes. Escribe diez tareas reales de tu semana como docente y clasifícalas en verde, ámbar o rojo, con una línea que justifique cada una. Si quieres, compártelo en el foro.
+Hazla después de leer el apartado 3 de los apuntes. Escribe diez tareas reales de tu semana como docente y clasifícalas en verde, ámbar o rojo, con una línea que explique por qué. Si te apetece, compártelo en el foro.
 
 </details>
 
-## T1.2 · Crea tu proyecto «IA para docentes» (obligatoria · 40 min)
+## T1.2 · Crea tu proyecto «IA para docentes» (obligatoria)
 
-Después de leer los apuntes y ver el vídeo 1.
+Hazla después de leer los apuntes y ver el vídeo 1.
 
-1. **Crea tu cuenta** personal en Claude (claude.ai) o en ChatGPT (chatgpt.com). No uses tu contraseña institucional.
-2. **Crea un proyecto** llamado **IA para docentes**.
-    - En Claude: barra lateral → Proyectos → Crear proyecto.
-    - En ChatGPT: barra lateral → Proyectos → Nuevo proyecto.
-3. **Abre las instrucciones del proyecto** y escribe tu perfil a partir de esta plantilla. Sustituye lo que está entre corchetes.
-4. **Guarda** y haz una **captura** de las instrucciones: forma parte de la entrega.
+1. **Entra con tu cuenta personal** en el asistente que elijas. Si ya tienes cuenta, úsala; si no, créate una. No uses tu contraseña de la Conselleria.
+2. **Crea un proyecto** llamado **IA para docentes**, o lo que se le parezca en tu asistente:
+
+| Asistente | Cómo se llama | Dónde se crea |
+| --- | --- | --- |
+| Claude (claude.ai) | Proyecto | Barra lateral → Proyectos → Crear proyecto |
+| ChatGPT (chatgpt.com) | Proyecto | Barra lateral → Proyectos → Nuevo proyecto |
+| Gemini (gemini.google.com) | Gem | Gems → Nuevo Gem |
+| Le Chat de Mistral (chat.mistral.ai) | Proyecto | Barra lateral → Proyectos → + |
+| Perplexity (perplexity.ai) | Espacio | Barra lateral → Espacios → Crear espacio |
+| Copilot | Notebook | Copilot → Notebooks → Nuevo notebook |
+
+Te recomendamos **Claude o ChatGPT**, porque son los que usamos en los ejemplos del curso, pero cualquiera de la lista te vale. Copilot Notebooks solo funciona con licencia de Microsoft 365 (o con la cuenta GVA, si la Conselleria lo tiene activado). Los menús cambian a menudo: si no encuentras algo, busca «proyecto» o «instrucciones» en la ayuda de tu asistente.
+
+3. **Abre las instrucciones del proyecto** (en un Gem es el campo «Instrucciones»; en Copilot, «Instrucciones de Copilot») y escribe tu perfil a partir de esta plantilla. Cambia lo que está entre corchetes.
+4. **Guarda** y haz una **captura** de las instrucciones: la necesitarás para la entrega.
 
 ```text
 QUIÉN SOY
 Soy docente de [materia] en [cursos] de ESO en un instituto de la Comunitat
-Valenciana. [Años de experiencia o algo relevante de tu forma de trabajar].
+Valenciana. [Años de experiencia o algo importante de tu forma de trabajar].
 
 MI ALUMNADO (en general, sin datos personales)
-[Características generales: nivel, intereses, diversidad habitual].
+[Cómo es en general: nivel, intereses, diversidad habitual].
 
 CÓMO QUIERO QUE ME AYUDES
-- Lenguaje claro y propuestas viables en sesiones de 55 minutos.
-- Respuestas breves y estructuradas.
+- Lenguaje claro y propuestas que quepan en sesiones de 55 minutos.
+- Respuestas breves y ordenadas.
 - [Otras preferencias: idioma, tono, formato].
 
 LÍMITES
@@ -92,53 +100,53 @@ LÍMITES
 - No me pidas ni uses datos personales de alumnado real.
 ```
 
-Este proyecto te acompañará todo el curso: cada semana añadirás algo a su contexto.
+Este proyecto te va a acompañar todo el curso: cada semana le añadiremos algo.
 
-## T1.3 · Dentro y fuera del proyecto (obligatoria · 30 min)
+## T1.3 · Dentro y fuera del proyecto (obligatoria)
 
-Después de ver el vídeo 2. Vas a comprobar con tus propios ojos que el contexto cambia la respuesta.
+Hazla después de ver el vídeo 2. Vas a ver con tus propios ojos que el contexto cambia la respuesta.
 
 1. **Fuera del proyecto**, en un chat normal, escribe: *«Propón una actividad de 15 minutos para empezar mi próxima clase»*.
 2. **Dentro del proyecto «IA para docentes»**, escribe exactamente lo mismo.
-3. Compara las dos respuestas y anota, en 4 o 5 líneas:
-    - ¿Qué tuvo que **inventar** la IA fuera del proyecto (materia, curso, nivel…)?
-    - ¿Qué **cambió** dentro del proyecto gracias a tus instrucciones?
-    - ¿Cuál usarías en clase? ¿Con qué cambios?
+3. Compara las dos respuestas y escribe cuatro o cinco líneas:
+   - ¿Qué se tuvo que **inventar** la IA fuera del proyecto (materia, curso, nivel…)?
+   - ¿Qué **cambió** dentro del proyecto gracias a tus instrucciones?
+   - ¿Cuál usarías en clase? ¿Qué le cambiarías?
 4. Haz una **captura** de las dos respuestas.
 
 <details>
-<summary>➕ O4 · ¿Qué recuerda? (opcional · 30 min): la memoria dentro, fuera y en incógnito</summary>
+<summary>➕ O4 · ¿Qué recuerda? (opcional)</summary>
 
 1. Pregunta *«¿Qué sabes de mí y de mi alumnado?»* en tres sitios: dentro del proyecto, en un chat normal y en un chat temporal o incógnito.
 2. Compara las tres respuestas.
-3. Abre la sección de memoria en la configuración de tu asistente: lee lo que ha guardado, corrige lo que esté mal y borra lo que no quieras que recuerde.
+3. Busca la memoria en la configuración de tu asistente: mira lo que ha guardado, corrige lo que esté mal y borra lo que no quieras que recuerde.
 
 </details>
 
 <details>
-<summary>➕ O5 · Otro asistente (opcional · 30 min): repite T1.3 en Gemini o Copilot</summary>
+<summary>➕ O5 · Otro asistente (opcional)</summary>
 
-Repite T1.3 en Gemini (con un Gem) o en Copilot (con un Notebook). ¿Se nota la misma diferencia entre dentro y fuera? ¿Qué asistente te ha respondido mejor?
+Crea el mismo proyecto en otro asistente de la tabla de T1.2 y repite T1.3. ¿Se nota la misma diferencia entre dentro y fuera? ¿Cuál te ha respondido mejor?
 
 </details>
 
-## Entrega, Ficha 4D y foro (obligatoria · 20 min)
+## Entrega, Ficha 4D y foro (obligatoria)
 
 Sube a Aules un único documento con:
 
-- [ ] Captura de las **instrucciones** de tu proyecto «IA para docentes» (T1.2).
-- [ ] Captura de las **dos respuestas** de T1.3 y tus anotaciones.
+- [ ] La captura de las **instrucciones** de tu proyecto «IA para docentes» (T1.2).
+- [ ] La captura de las **dos respuestas** de T1.3 y lo que has escrito al compararlas.
 - [ ] La **Ficha 4D n.º 1**, con una o dos líneas por apartado.
 
 ```text
 DELEGACIÓN      ¿Qué le pedí a la IA? ¿Qué decidí hacer yo?
 DESCRIPCIÓN     ¿Qué puse en las instrucciones? ¿Qué cambiaría?
-DISCERNIMIENTO  ¿Qué tuvo que inventar la IA? ¿Detecté algún error?
+DISCERNIMIENTO  ¿Qué se tuvo que inventar la IA? ¿Vi algún error?
 DILIGENCIA      ¿Qué precauciones tomé con los datos y la cuenta?
 ```
 
-**Foro:** publica tus instrucciones de perfil y comenta las de un compañero: ¿qué le añadirías?
+**Foro:** comparte tus instrucciones de perfil y comenta las de algún compañero: ¿qué le añadirías?
 
-**Antes de entregar,** comprueba que en las capturas no aparece ningún dato personal real: ni nombres de alumnado, ni del centro, ni tu correo.
+**Antes de entregar,** revisa que en las capturas no salga ningún dato personal real: ni nombres de alumnos, ni del centro, ni tu correo.
 
 Si has hecho alguna tarea opcional, puedes añadirla al final del documento.
