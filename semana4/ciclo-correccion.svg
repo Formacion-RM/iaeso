@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="825" viewBox="0 0 1600 825" font-family="DejaVu Sans">
+<rect width="1600" height="825" fill="#f5f4ef"/>
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,4 L0,8 z" fill="#1f2a44"/></marker><marker id="b" markerWidth="5" markerHeight="5" refX="4" refY="2.5" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L5,2.5 L0,5 z" fill="#1f2a44"/></marker></defs>
+<text x="800.0" y="62" text-anchor="middle" font-size="38" font-weight="bold" fill="#1f2a44">Corregir y mejorar con IA: el ciclo de la semana</text>
+<text x="800.0" y="102" text-anchor="middle" font-size="22" fill="#4a5468">La IA ayuda en cada paso, pero la nota y las mejoras las decides tú</text>
+<path d="M28.0,168 L28.0,152 L1040.0,152 L1040.0,168" fill="none" stroke="#4a5468" stroke-width="2"/>
+<rect x="384.0" y="138" width="300" height="28" fill="#f5f4ef"/>
+<text x="534.0" y="159" text-anchor="middle" font-size="17" font-weight="bold" letter-spacing="2.5" fill="#4a5468">CON CADA RESPUESTA</text>
+<path d="M1092.0,168 L1092.0,152 L1572.0,152 L1572.0,168" fill="none" stroke="#4a5468" stroke-width="2"/>
+<rect x="1182.0" y="138" width="300" height="28" fill="#f5f4ef"/>
+<text x="1332.0" y="159" text-anchor="middle" font-size="17" font-weight="bold" letter-spacing="2.5" fill="#4a5468">CON TODO EL GRUPO</text>
+<rect x="22.0" y="190" width="226.0" height="420" rx="18" fill="white" stroke="#574a8f" stroke-width="3"/>
+<path d="M23.5,310 L23.5,208 Q23.5,191.5 40.0,191.5 L230.0,191.5 Q246.5,191.5 246.5,208 L246.5,310 z" fill="#e6e1f0"/>
+<circle cx="68.0" cy="238" r="27" fill="#574a8f"/>
+<text x="68.0" y="248" text-anchor="middle" font-size="28" font-weight="bold" fill="white">1</text>
+<text x="42.0" y="292" font-size="24" font-weight="bold" fill="#574a8f">Corriges tú</text>
+<text x="42.0" y="355" font-size="20" fill="#1f2a44">Con tu rúbrica,</text>
+<text x="42.0" y="386" font-size="20" fill="#1f2a44">antes de ver</text>
+<text x="42.0" y="417" font-size="20" fill="#1f2a44">nada de la IA.</text>
+<rect x="40.0" y="548" width="55.0" height="42" rx="12" fill="#e6e1f0"/>
+<text x="67.5" y="576" text-anchor="middle" font-size="18" font-weight="bold" fill="#574a8f">Tú</text>
+<line x1="256.0" y1="400" x2="278.0" y2="400" stroke="#1f2a44" stroke-width="3.5" marker-end="url(#a)"/>
+<rect x="288.0" y="190" width="226.0" height="420" rx="18" fill="white" stroke="#1f6e66" stroke-width="3"/>
+<path d="M289.5,310 L289.5,208 Q289.5,191.5 306.0,191.5 L496.0,191.5 Q512.5,191.5 512.5,208 L512.5,310 z" fill="#dcecea"/>
+<circle cx="334.0" cy="238" r="27" fill="#1f6e66"/>
+<text x="334.0" y="248" text-anchor="middle" font-size="28" font-weight="bold" fill="white">2</text>
+<text x="308.0" y="292" font-size="24" font-weight="bold" fill="#1f6e66">Corrige la IA</text>
+<text x="308.0" y="355" font-size="20" fill="#1f2a44">Con la misma</text>
+<text x="308.0" y="386" font-size="20" fill="#1f2a44">rúbrica y una cita</text>
+<text x="308.0" y="417" font-size="20" fill="#1f2a44">literal en cada</text>
+<text x="308.0" y="448" font-size="20" fill="#1f2a44">criterio.</text>
+<rect x="306.0" y="548" width="55.0" height="42" rx="12" fill="#dcecea"/>
+<text x="333.5" y="576" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f6e66">IA</text>
+<line x1="522.0" y1="400" x2="544.0" y2="400" stroke="#1f2a44" stroke-width="3.5" marker-end="url(#a)"/>
+<rect x="554.0" y="190" width="226.0" height="420" rx="18" fill="white" stroke="#574a8f" stroke-width="3"/>
+<path d="M555.5,310 L555.5,208 Q555.5,191.5 572.0,191.5 L762.0,191.5 Q778.5,191.5 778.5,208 L778.5,310 z" fill="#e6e1f0"/>
+<circle cx="600.0" cy="238" r="27" fill="#574a8f"/>
+<text x="600.0" y="248" text-anchor="middle" font-size="28" font-weight="bold" fill="white">3</text>
+<text x="574.0" y="292" font-size="24" font-weight="bold" fill="#574a8f">Comparas</text>
+<text x="574.0" y="355" font-size="20" fill="#1f2a44">Miras en qué</text>
+<text x="574.0" y="386" font-size="20" fill="#1f2a44">no coincidís.</text>
+<text x="574.0" y="417" font-size="20" fill="#1f2a44">La nota la</text>
+<text x="574.0" y="448" font-size="20" fill="#1f2a44">pones tú.</text>
+<rect x="572.0" y="548" width="147.0" height="42" rx="12" fill="#e6e1f0"/>
+<text x="645.5" y="576" text-anchor="middle" font-size="18" font-weight="bold" fill="#574a8f">Tú decides</text>
+<line x1="788.0" y1="400" x2="810.0" y2="400" stroke="#1f2a44" stroke-width="3.5" marker-end="url(#a)"/>
+<rect x="820.0" y="190" width="226.0" height="420" rx="18" fill="white" stroke="#2c5a8a" stroke-width="3"/>
+<path d="M821.5,310 L821.5,208 Q821.5,191.5 838.0,191.5 L1028.0,191.5 Q1044.5,191.5 1044.5,208 L1044.5,310 z" fill="#dfe8f2"/>
+<circle cx="866.0" cy="238" r="27" fill="#2c5a8a"/>
+<text x="866.0" y="248" text-anchor="middle" font-size="28" font-weight="bold" fill="white">4</text>
+<text x="840.0" y="292" font-size="24" font-weight="bold" fill="#2c5a8a">Feedback</text>
+<text x="840.0" y="355" font-size="20" fill="#1f2a44">La IA lo redacta</text>
+<text x="840.0" y="386" font-size="20" fill="#1f2a44">y tú lo revisas:</text>
+<text x="840.0" y="417" font-size="20" fill="#1f2a44">breve, sobre la</text>
+<text x="840.0" y="448" font-size="20" fill="#1f2a44">tarea y sin dar</text>
+<text x="840.0" y="479" font-size="20" fill="#1f2a44">la solución.</text>
+<rect x="838.0" y="548" width="112.5" height="42" rx="12" fill="#dfe8f2"/>
+<text x="894.25" y="576" text-anchor="middle" font-size="18" font-weight="bold" fill="#2c5a8a">IA + tú</text>
+<line x1="1054.0" y1="400" x2="1076.0" y2="400" stroke="#1f2a44" stroke-width="3.5" marker-end="url(#a)"/>
+<rect x="1086.0" y="190" width="226.0" height="420" rx="18" fill="white" stroke="#2c5a8a" stroke-width="3"/>
+<path d="M1087.5,310 L1087.5,208 Q1087.5,191.5 1104.0,191.5 L1294.0,191.5 Q1310.5,191.5 1310.5,208 L1310.5,310 z" fill="#dfe8f2"/>
+<circle cx="1132.0" cy="238" r="27" fill="#2c5a8a"/>
+<text x="1132.0" y="248" text-anchor="middle" font-size="28" font-weight="bold" fill="white">5</text>
+<text x="1106.0" y="292" font-size="24" font-weight="bold" fill="#2c5a8a">Analizas</text>
+<text x="1106.0" y="355" font-size="20" fill="#1f2a44">Resultados por</text>
+<text x="1106.0" y="386" font-size="20" fill="#1f2a44">criterio y errores</text>
+<text x="1106.0" y="417" font-size="20" fill="#1f2a44">que se repiten.</text>
+<text x="1106.0" y="448" font-size="20" fill="#1f2a44">Compruebas</text>
+<text x="1106.0" y="479" font-size="20" fill="#1f2a44">un recuento.</text>
+<rect x="1104.0" y="548" width="112.5" height="42" rx="12" fill="#dfe8f2"/>
+<text x="1160.25" y="576" text-anchor="middle" font-size="18" font-weight="bold" fill="#2c5a8a">IA + tú</text>
+<line x1="1320.0" y1="400" x2="1342.0" y2="400" stroke="#1f2a44" stroke-width="3.5" marker-end="url(#a)"/>
+<rect x="1352.0" y="190" width="226.0" height="420" rx="18" fill="white" stroke="#574a8f" stroke-width="3"/>
+<path d="M1353.5,310 L1353.5,208 Q1353.5,191.5 1370.0,191.5 L1560.0,191.5 Q1576.5,191.5 1576.5,208 L1576.5,310 z" fill="#e6e1f0"/>
+<circle cx="1398.0" cy="238" r="27" fill="#574a8f"/>
+<text x="1398.0" y="248" text-anchor="middle" font-size="28" font-weight="bold" fill="white">6</text>
+<text x="1372.0" y="292" font-size="24" font-weight="bold" fill="#574a8f">Mejoras</text>
+<text x="1372.0" y="355" font-size="20" fill="#1f2a44">La actividad,</text>
+<text x="1372.0" y="386" font-size="20" fill="#1f2a44">el material o la</text>
+<text x="1372.0" y="417" font-size="20" fill="#1f2a44">rúbrica, a partir</text>
+<text x="1372.0" y="448" font-size="20" fill="#1f2a44">de las evidencias.</text>
+<rect x="1370.0" y="548" width="147.0" height="42" rx="12" fill="#e6e1f0"/>
+<text x="1443.5" y="576" text-anchor="middle" font-size="18" font-weight="bold" fill="#574a8f">Tú decides</text>
+<path d="M1465.0,614 C1465.0,720 135.0,720 135.0,628" fill="none" stroke="#1f2a44" stroke-width="3" stroke-dasharray="10,8" marker-end="url(#b)"/>
+<text x="800.0" y="760" text-anchor="middle" font-size="25" font-weight="bold" fill="#1f2a44">La próxima actividad empieza mejor</text>
+<text x="800.0" y="796" text-anchor="middle" font-size="20" fill="#4a5468">con el enunciado, el material y la rúbrica mejorados a partir de lo que ha pasado de verdad</text>
+</svg>

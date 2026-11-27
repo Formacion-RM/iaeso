@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="915" viewBox="0 0 1500 915" font-family="DejaVu Sans">
+<rect width="1500" height="915" fill="#f5f4ef"/>
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,4 L0,8 z" fill="#1f2a44"/></marker></defs>
+<text x="750.0" y="62" text-anchor="middle" font-size="38" font-weight="bold" fill="#1f2a44">¿Puedo pegarlo en la IA?</text>
+<text x="750.0" y="102" text-anchor="middle" font-size="22" fill="#4a5468">Antes de pegar una respuesta, unas notas o la foto de un examen</text>
+<rect x="70" y="150" width="700" height="110" rx="18" fill="white" stroke="#1f2a44" stroke-width="3"/>
+<circle cx="120" cy="205.0" r="24" fill="#1f2a44"/>
+<text x="120" y="214.0" text-anchor="middle" font-size="24" font-weight="bold" fill="white">1</text>
+<text x="165" y="198" font-size="27" font-weight="bold" fill="#1f2a44">¿Es inventado?</text>
+<text x="165" y="234" font-size="20" font-style="italic" fill="#4a5468">Respuestas ficticias, casos de ejemplo…</text>
+<rect x="70" y="330" width="700" height="110" rx="18" fill="white" stroke="#1f2a44" stroke-width="3"/>
+<circle cx="120" cy="385.0" r="24" fill="#1f2a44"/>
+<text x="120" y="394.0" text-anchor="middle" font-size="24" font-weight="bold" fill="white">2</text>
+<text x="165" y="378" font-size="27" font-weight="bold" fill="#1f2a44">¿Son datos agregados?</text>
+<text x="165" y="414" font-size="20" font-style="italic" fill="#4a5468">«7 de 25 confunden causa y consecuencia»</text>
+<rect x="70" y="510" width="700" height="110" rx="18" fill="white" stroke="#1f2a44" stroke-width="3"/>
+<circle cx="120" cy="565.0" r="24" fill="#1f2a44"/>
+<text x="120" y="574.0" text-anchor="middle" font-size="24" font-weight="bold" fill="white">3</text>
+<text x="165" y="558" font-size="27" font-weight="bold" fill="#1f2a44">¿Es una herramienta autorizada</text>
+<text x="165" y="594" font-size="27" font-weight="bold" fill="#1f2a44">por la Conselleria?</text>
+<rect x="900" y="150" width="530" height="290" rx="18" fill="#dff0e5" stroke="#2e7d4f" stroke-width="3"/>
+<text x="928" y="196" font-size="26" font-weight="bold" fill="#2e7d4f">Adelante</text>
+<text x="928" y="232" font-size="20" fill="#1f2a44">En cualquier asistente.</text>
+<text x="928" y="262" font-size="20" fill="#1f2a44">Ni lo inventado ni los datos</text>
+<text x="928" y="292" font-size="20" fill="#1f2a44">agregados identifican a nadie.</text>
+<text x="928" y="322" font-size="20" fill="#1f2a44"></text>
+<text x="928" y="352" font-size="20" fill="#1f2a44">Aun así, comprueba lo que</text>
+<text x="928" y="382" font-size="20" fill="#1f2a44">te devuelva.</text>
+<line x1="770" y1="205" x2="894" y2="205" stroke="#1f2a44" stroke-width="3.5" marker-end="url(#a)"/>
+<text x="835" y="193" text-anchor="middle" font-size="21" font-weight="bold" fill="#1f2a44">Sí</text>
+<line x1="770" y1="385" x2="894" y2="385" stroke="#1f2a44" stroke-width="3.5" marker-end="url(#a)"/>
+<text x="835" y="373" text-anchor="middle" font-size="21" font-weight="bold" fill="#1f2a44">Sí</text>
+<rect x="900" y="510" width="530" height="160" rx="18" fill="#f7ecd2" stroke="#a8700c" stroke-width="3"/>
+<text x="928" y="556" font-size="26" font-weight="bold" fill="#a8700c">Sí, pero con cuidado</text>
+<text x="928" y="592" font-size="20" fill="#1f2a44">Códigos (R01) en vez de nombres</text>
+<text x="928" y="622" font-size="20" fill="#1f2a44">y solo lo imprescindible, siguiendo</text><text x="928" y="652" font-size="20" fill="#1f2a44">las instrucciones del centro.</text>
+<line x1="770" y1="565" x2="894" y2="565" stroke="#1f2a44" stroke-width="3.5" marker-end="url(#a)"/>
+<text x="835" y="553" text-anchor="middle" font-size="21" font-weight="bold" fill="#1f2a44">Sí</text>
+<line x1="420.0" y1="260" x2="420.0" y2="324" stroke="#1f2a44" stroke-width="3.5" marker-end="url(#a)"/>
+<text x="454.0" y="300" text-anchor="middle" font-size="21" font-weight="bold" fill="#1f2a44">No</text>
+<line x1="420.0" y1="440" x2="420.0" y2="504" stroke="#1f2a44" stroke-width="3.5" marker-end="url(#a)"/>
+<text x="454.0" y="480" text-anchor="middle" font-size="21" font-weight="bold" fill="#1f2a44">No</text>
+<line x1="420.0" y1="620" x2="420.0" y2="684" stroke="#1f2a44" stroke-width="3.5" marker-end="url(#a)"/>
+<text x="454.0" y="660" text-anchor="middle" font-size="21" font-weight="bold" fill="#1f2a44">No</text>
+<rect x="70" y="690" width="700" height="132" rx="18" fill="#f6dedb" stroke="#b3362c" stroke-width="3"/>
+<text x="98" y="736" font-size="26" font-weight="bold" fill="#b3362c">No lo pegues</text>
+<text x="98" y="772" font-size="20" fill="#1f2a44">Aunque le quites el nombre: si tú sabes quién es,</text><text x="98" y="802" font-size="20" fill="#1f2a44">sigue siendo un dato personal.</text>
+<text x="750.0" y="878" text-anchor="middle" font-size="21" fill="#4a5468"><tspan font-weight="bold" fill="#1f2a44">Regla de la fotocopia:</tspan> si no lo dejarías olvidado en la fotocopiadora del centro, no lo subas a una IA externa.</text>
+</svg>
