@@ -1,0 +1,161 @@
+1
+00:00:00,090 --> 00:00:04,654
+Hola. Hoy te traigo un truco de una sola
+frase que mejora casi cualquier respuesta
+
+2
+00:00:04,754 --> 00:00:05,210
+de la IA.
+
+3
+00:00:07,700 --> 00:00:12,385
+Cuando pides algo en una sola línea, la IA
+tiene que rellenar un montón de huecos:
+
+4
+00:00:12,485 --> 00:00:16,725
+el curso, el tiempo, lo que ya saben
+tus alumnos, los recursos que tienes.
+
+5
+00:00:16,825 --> 00:00:18,785
+Y como no pregunta, se lo inventa.
+
+6
+00:00:18,885 --> 00:00:21,070
+Por eso muchas respuestas
+te parecen genéricas.
+
+7
+00:00:24,630 --> 00:00:28,435
+La solución es añadir esta frase
+al final: «antes de responder,
+
+8
+00:00:28,535 --> 00:00:31,125
+hazme las preguntas que
+necesites, máximo tres».
+
+9
+00:00:31,225 --> 00:00:34,275
+Así, en vez de inventar,
+la IA te pregunta.
+
+10
+00:00:34,375 --> 00:00:37,080
+Lo de «máximo tres» es para que
+no te haga un interrogatorio.
+
+11
+00:00:40,280 --> 00:00:41,545
+Vamos a verlo con un ejemplo.
+
+12
+00:00:41,645 --> 00:00:44,660
+La misma petición de antes, pero
+ahora con la frase al final.
+
+13
+00:00:47,520 --> 00:00:50,320
+Y la IA, en vez de responder, te pregunta.
+
+14
+00:00:50,420 --> 00:00:52,640
+¿Para qué curso es y cuánto tiempo tienes?
+
+15
+00:00:52,740 --> 00:00:54,095
+¿Qué saben ya del tema?
+
+16
+00:00:54,195 --> 00:00:55,955
+¿Qué recursos tienes en el aula?
+
+17
+00:00:56,055 --> 00:00:57,770
+Justo lo que antes se habría inventado.
+
+18
+00:01:01,090 --> 00:01:04,510
+Contestas en una línea: primero
+de ESO, treinta minutos,
+
+19
+00:01:04,610 --> 00:01:07,375
+ya conocen los estados del
+agua y no hay ordenadores.
+
+20
+00:01:07,475 --> 00:01:11,572
+Y ahora la actividad encaja a la primera:
+una dinámica por grupos con tarjetas,
+
+21
+00:01:11,672 --> 00:01:13,940
+de treinta minutos y sin pantallas.
+
+22
+00:01:14,040 --> 00:01:16,440
+Te has ahorrado dos o tres
+vueltas de correcciones.
+
+23
+00:01:19,860 --> 00:01:21,395
+El truco tiene variantes.
+
+24
+00:01:21,495 --> 00:01:24,420
+«Pregúntame de una en una»,
+si prefieres ir paso a paso.
+
+25
+00:01:24,520 --> 00:01:28,840
+«Dame tres enfoques antes de desarrollar
+uno», para elegir tú por dónde tirar.
+
+26
+00:01:28,940 --> 00:01:31,005
+Y «al final, dime qué has supuesto»:
+
+27
+00:01:31,105 --> 00:01:34,140
+así ves lo que la IA ha dado
+por hecho y lo puedes corregir.
+
+28
+00:01:37,380 --> 00:01:42,380
+Úsalo cuando la tarea tenga muchos
+detalles: una actividad, una rúbrica,
+
+29
+00:01:42,480 --> 00:01:45,993
+un material. Para cosas sencillas, como
+traducir un texto o revisar la ortografía,
+
+30
+00:01:46,093 --> 00:01:46,830
+no hace falta.
+
+31
+00:01:50,400 --> 00:01:53,580
+Y si no quieres escribirlo cada
+vez, ya lo tienes en tu proyecto:
+
+32
+00:01:53,680 --> 00:01:56,050
+es uno de los límites de
+la plantilla del perfil.
+
+33
+00:01:56,150 --> 00:01:59,890
+Dentro de «IA para docentes», la IA
+ya sabe que tiene que preguntarte.
+
+34
+00:02:02,600 --> 00:02:08,331
+Ahora compruébalo tú: haz la misma petición
+dentro y fuera de tu proyecto y fíjate
+
+35
+00:02:08,431 --> 00:02:09,580
+en la diferencia.
